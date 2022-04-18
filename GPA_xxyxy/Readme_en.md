@@ -2,10 +2,8 @@
 Firstly, you should make sure you have a python >= 3.6
 
 
-Secondly, you should install Firefox Web browser and it's driver. You can install driver from:
-
-
-Note: the driver must suit the installed Firefos browser.
+Secondly, you should install Firefox Web browser and it's driver. You can install driver from: https://github.com/mozilla/geckodriver/releases 
+Note: the driver must suit the installed Firefox browser.
 
 
 Lastly, make sure you have install parsel in python environment.
