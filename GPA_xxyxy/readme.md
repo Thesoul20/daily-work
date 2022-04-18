@@ -19,4 +19,4 @@ Firefox浏览器驱动下载地址：https://github.com/mozilla/geckodriver/rele
             conda: conda install parsel
             pipenv: pipenv install parsel 
 # 运行脚本
-首先需要在GPA_xxyxy.py文件中更改自己的账户与密码，之后确定Python环境的正常运行，最后运行GPA_xxyxy.py 文件。
+首先需要在GPA_xxyxy.py文件中输入自己的账户与密码，之后确定Python环境的正常运行，最后运行GPA_xxyxy.py 文件。
