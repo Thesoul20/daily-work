@@ -81,7 +81,9 @@ class Gpa_xxyxy():
             total += xuef * score
         total_ = sum(xuefen)    # 课程总学分
         GPA = total / total_    # 最终 GPA 成绩
-        print(f'最终GPA（百分制）成绩为：\n{GPA}')
+        print(f'最终加权GPA（百分制）成绩为：\n{GPA}')
+        GPA_ = sum(scores) / len(scores)    # 平均学分
+        print(f'最终平均GPA（百分制）成绩为:\n{GPA_}')
 
     def _run(self):
         # 运行整个项目，得到GPA数据
