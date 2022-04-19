@@ -92,6 +92,8 @@ class Gpa_xxyxy():
         self._enter_myscore()
         self._get_score_detail()
         self.calcu()
+        # 运行结束，关闭浏览器
+        self.driver.quit()
         pass
 
 if __name__ == '__main__':
