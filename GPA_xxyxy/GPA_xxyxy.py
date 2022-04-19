@@ -1,7 +1,8 @@
 '''
 GPA 就是平均绩点
 该脚本的目标就是计算新医学子的本科GPA成绩（百分制）
-    GPA = (课程学分 * 课程得分) / 课程总学分
+    加权GPA = (课程学分 * 课程得分) / 课程总学分
+    平均GPA = 课程得分之和 / 课程总个数
 '''
 import time
 from selenium.webdriver import Firefox
