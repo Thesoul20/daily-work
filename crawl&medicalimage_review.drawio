@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T09:33:24.232Z" agent="5.0 (X11)" etag="MzRAL5xfRduJ2qvL8iFc" version="17.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-17T09:35:22.112Z" agent="5.0 (X11)" etag="Sn8bXi3P2UhBewimuVbt" version="17.4.4" type="github">
   <diagram id="zpWfCR6iwj-UCEg8vkta" name="Page-1">
     <mxGraphModel dx="868" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -73,14 +73,14 @@
         <mxCell id="ZSQIsq2KYaw6WXoADdSx-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="ZSQIsq2KYaw6WXoADdSx-1" target="ZSQIsq2KYaw6WXoADdSx-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZSQIsq2KYaw6WXoADdSx-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;scrapy engine&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZSQIsq2KYaw6WXoADdSx-1" value="&lt;font style=&quot;font-size: 19px&quot;&gt;scrapy engine&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="408.5" y="800" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ZSQIsq2KYaw6WXoADdSx-2" value="scheduler调度器" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="413.5" y="690" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ZSQIsq2KYaw6WXoADdSx-3" value="Item Pipelines数据结构与处理" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="107" y="815" width="140" height="60" as="geometry" />
+          <mxGeometry x="112" y="815" width="135" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZSQIsq2KYaw6WXoADdSx-4" value="internet" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="695" y="680" width="120" height="50" as="geometry" />
@@ -156,7 +156,7 @@
         </mxCell>
         <mxCell id="ZSQIsq2KYaw6WXoADdSx-23" value="item infos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="ZSQIsq2KYaw6WXoADdSx-22">
           <mxGeometry x="0.4554" y="6" relative="1" as="geometry">
-            <mxPoint x="-2" y="19" as="offset" />
+            <mxPoint x="1" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
