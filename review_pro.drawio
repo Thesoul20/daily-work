@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T11:53:20.809Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" version="21.0.6" etag="rzuICeb9CPsFkQSZZJxh" type="github"><diagram name="Page-1" id="cwVJowlfP7EyrbzWVJgU">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-15T12:28:39.415Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="UBSqR_yNWHEuJo96nVZI" version="21.0.6" type="github">
+  <diagram name="Page-1" id="cwVJowlfP7EyrbzWVJgU">
+    <mxGraphModel dx="988" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-4" target="yP21Up0hT9SQo8Q76Coi-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-4" value="添加到结果列表中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="899" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-5" target="yP21Up0hT9SQo8Q76Coi-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-5" value="对该列表求和" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-6" target="yP21Up0hT9SQo8Q76Coi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-6" value="计算各个数字的立方并存入到一个列表中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-7" target="yP21Up0hT9SQo8Q76Coi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-7" value="转换数字格式为list获取该数的各个数位上的数字" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="475" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-8" target="yP21Up0hT9SQo8Q76Coi-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-8" value="遍历整个区间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="363" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-9" target="yP21Up0hT9SQo8Q76Coi-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-9" value="输入区间的终点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="251" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-11" target="yP21Up0hT9SQo8Q76Coi-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="525" y="393" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-22" value="相等&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yP21Up0hT9SQo8Q76Coi-17">
+          <mxGeometry x="0.3167" y="2" relative="1" as="geometry">
+            <mxPoint x="-144" y="330" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yP21Up0hT9SQo8Q76Coi-11" target="yP21Up0hT9SQo8Q76Coi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-11" value="判断是否相等" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="279" y="767" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-19" value="打印结果列表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="259" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yP21Up0hT9SQo8Q76Coi-24" value="不等" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="276" y="853" width="42" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
