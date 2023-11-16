@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2023-11-16T14:16:42.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" version="22.1.2" etag="yN_46u5CHjobr7M813BA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-16T14:46:20.282Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/119.0" etag="MA80c7UkZ6N2k3CoQeD-" version="22.1.2" type="github">
   <diagram name="第 1 页" id="x5ycNyDfoJD97KXTtvuO">
-    <mxGraphModel>
+    <mxGraphModel dx="842" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-9" value="示波器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="388" width="21" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-10" target="P_WtD1KpSbewv5TmSZpe-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-10" value="&lt;div&gt;100Hz&lt;/div&gt;&lt;div&gt;低通滤波器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="604" y="401" width="69" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-11" target="P_WtD1KpSbewv5TmSZpe-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-11" value="&lt;div&gt;100倍&lt;/div&gt;&lt;div&gt;主放大器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="518" y="403" width="61" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-12" target="P_WtD1KpSbewv5TmSZpe-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-12" value="&lt;div&gt;50Hz&lt;/div&gt;&lt;div&gt;陷波器&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="428" y="403" width="63" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-13" target="P_WtD1KpSbewv5TmSZpe-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-13" value="&lt;div&gt;0.05Hz&lt;/div&gt;&lt;div&gt;高通滤波器&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="321" y="402" width="78" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-14" target="P_WtD1KpSbewv5TmSZpe-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-14" value="前置放大（10倍）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="188" y="388" width="104" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-15" target="P_WtD1KpSbewv5TmSZpe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-15" value="右腿驱动电路" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="197" y="323" width="86" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-16" target="P_WtD1KpSbewv5TmSZpe-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-16" value="右腿" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="323" width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-18" target="P_WtD1KpSbewv5TmSZpe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-18" value="&lt;div&gt;右手&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="380" width="40" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="P_WtD1KpSbewv5TmSZpe-20" target="P_WtD1KpSbewv5TmSZpe-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="P_WtD1KpSbewv5TmSZpe-20" value="&lt;div&gt;左手&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="117" y="437" width="40" height="28" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
