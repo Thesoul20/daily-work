@@ -1,9 +1,90 @@
-<mxfile host="app.diagrams.net" modified="2024-02-28T23:58:13.496Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" version="23.1.8" etag="lhvRm9aNijdqDkNUnzi4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-29T10:15:47.583Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="enb_dXHRINLUaCorb_Uq" version="23.1.8" type="github">
   <diagram name="Page-1" id="WEH9xrTXncNTX4dx-r0v">
-    <mxGraphModel>
+    <mxGraphModel dx="1374" dy="652" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-1" value="&lt;h3 style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;AlexNet&lt;/font&gt;&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="258" width="122" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="t3D_3zhIY8ktZxlL6efK-2" target="t3D_3zhIY8ktZxlL6efK-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-2" value="&lt;h3 style=&quot;font-size: 19px;&quot;&gt;LeNet-5&lt;/h3&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-3" value="下采样" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="543" y="149" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-4" value="&lt;h3&gt;GoogLeNet&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-5" value="&lt;h3&gt;ResNet&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="566" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-6" value="&lt;h3&gt;VGGNet&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-7" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;深度学习的发展&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="291" y="21" width="228" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="8" y="463" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="18" y="473" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="483" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="493" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="48" y="503" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="58" y="513" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="68" y="523" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="78" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="88" y="543" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-18" value="Transformer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="1007" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-19" value="CBAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="896" width="120" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-20" value="SENet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="462" y="786" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-21" value="Attention" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="676" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-22" value="&lt;h3&gt;Anchor-Free Models &lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="1278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-23" value="&lt;h3&gt;RetinaNet&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="33" y="1173" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-24" value="&lt;h3&gt; SSD (Single Shot MultiBox Detector)&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="1061" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-25" value="&lt;h3&gt;Faster R-CNN&lt;/h3&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-26" value="&lt;div&gt;YOLO&lt;/div&gt;&lt;div&gt;(You Only Look Once)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="38" y="826" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t3D_3zhIY8ktZxlL6efK-27" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;目标检测领域&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92" y="742" width="138" height="36" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
