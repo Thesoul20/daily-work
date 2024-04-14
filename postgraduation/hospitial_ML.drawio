@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T09:43:27.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" version="24.0.6" etag="rOOypTH43BeJtSKr6n9u" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T09:48:37.794Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="dkb1GUIJeJMQ7MnEJu3b" version="24.0.6" type="github">
   <diagram name="第 1 页" id="OJ16oFzWZE-IDb74wPel">
-    <mxGraphModel>
+    <mxGraphModel dx="830" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQt1VLGz3Sup6XHT0tWa-1" target="uQt1VLGz3Sup6XHT0tWa-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-1" value="&lt;div&gt;NRRD 文件&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="218" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQt1VLGz3Sup6XHT0tWa-2" target="uQt1VLGz3Sup6XHT0tWa-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-2" value="Pyradiomics 提取组学特征" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="327" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="uQt1VLGz3Sup6XHT0tWa-3" target="uQt1VLGz3Sup6XHT0tWa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-3" value="构建回归模型（计算各个指标的权重）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="438" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-4" value="训练模型" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;dashed=1;dashPattern=1 2;" vertex="1" parent="1">
+          <mxGeometry x="228" y="538" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQt1VLGz3Sup6XHT0tWa-8" value="缺少数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="285" y="504" width="66" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
