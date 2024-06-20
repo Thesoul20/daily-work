@@ -1,9 +1,108 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T02:58:16.024Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" version="24.5.2" etag="QhKuvjV6-30bRjtlS1Rx" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T03:28:31.246Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Yhf9KH3zoJYIce1Rrl0R" version="24.5.2" type="github">
   <diagram name="第 1 页" id="r7j3W-QUFh4BvUSKTI8u">
-    <mxGraphModel>
+    <mxGraphModel dx="830" dy="446" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ajCh5TlajdikPFk8IcOv-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="277" y="139" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-2" value="pig blood vessels" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="348" y="168" width="115" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="271" y="221" as="sourcePoint" />
+            <mxPoint x="237" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="219" as="sourcePoint" />
+            <mxPoint x="360" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="207" y="281" width="54" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-7" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="354" y="277" width="54" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-8" value="cutting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="253" y="236" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-9" value="cutting" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="232" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="233" y="394" as="sourcePoint" />
+            <mxPoint x="230" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="195" y="392" as="sourcePoint" />
+            <mxPoint x="161" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.5" y="397" as="sourcePoint" />
+            <mxPoint x="292.5" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-13" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="221" y="458" width="18" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="141" y="458" width="18" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="291" y="458" width="18" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-16" value="Cutting into &lt;br&gt;three equal parts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="51" y="387" width="111" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-17" value="Using photosensitizer&lt;br&gt;photocrosslinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8" y="592" width="138" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-18" value="&lt;div&gt;Non photosensitizer&lt;/div&gt;&lt;div&gt;photocrosslinking&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="151" y="595" width="128" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-19" value="Non photocrosslinking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277" y="599.5" width="142" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-23" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="403" y="394" as="sourcePoint" />
+            <mxPoint x="400" y="447" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-24" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="417.5" y="397" as="sourcePoint" />
+            <mxPoint x="442.5" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="385" y="392" as="sourcePoint" />
+            <mxPoint x="351" y="444" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-26" value="&lt;div&gt;Same as left group one&lt;br&gt;&lt;/div&gt;&lt;div&gt;but with &lt;font data-darkreader-inline-color=&quot;&quot; style=&quot;--darkreader-inline-color: #ff85c2;&quot; color=&quot;#660033&quot;&gt;different time&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="420" y="374" width="146" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-27" value="goup one" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="199" y="313" width="70" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-28" value="&lt;div&gt;group two&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="345" y="317" width="72" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="ajCh5TlajdikPFk8IcOv-29" value="&lt;div&gt;不同光交联时间对于样品杨氏模量的影响分析&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="92.5" y="89" width="258" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
